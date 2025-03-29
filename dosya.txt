@@ -1,2 +1,8 @@
-vless://e6292dbf-110b-4cf2-ba3f-aad97e2b503a@151.101.193.91:443?security=tls&type=xhttp&headerType=&path=%2F&host=Hiyuta.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=Hiyuta.global.ssl.fastly.net&fp=chrome&alpn=h3&allowInsecure=1#FASTLY 
-vless://e6292dbf-110b-4cf2-ba3f-aad97e2b503a@104.18.20.63:443?security=tls&type=xhttp&headerType=&path=%2F&host=erx.nagazi98.ru&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=erx.nagazi98.ru&fp=chrome&alpn=h3&allowInsecure=1#Ws
+[
+  {
+    "server": "5.35.126.188",
+    "server_port": 157,
+    "password": "10c3336eff989121",
+    "method": "aes-256-cfb"
+  }
+]
